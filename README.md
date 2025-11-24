@@ -1,8 +1,12 @@
+![Total Visitors](https://komarev.com/ghpvc/?username=aron-666-MaplestoryArtale&color=green)
+
 # Aron.MaplestoryArtale - 楓之谷 Artale 遊戲輔助系統
 
 這是一個專為 MapleStory Artale 設計的遊戲輔助工具，透過 OBS 擷取遊戲畫面，並利用 AI 模型進行影像辨識，實現自動喝水（HP/MP 恢復）與狀態監控功能。
 
 ![主介面預覽](Screenshots/01.png)
+
+**[🎥 觀看功能示範影片](https://youtu.be/YYn0WYdpDrA)**
 
 ## ✨ 功能介紹
 
@@ -76,7 +80,7 @@
 2.  **AI 分析**：程式接收到截圖後，使用內建的模型分析畫面，找出 HP/MP 條的位置與長度。
 3.  **模擬按鍵**：當分析結果低於設定的閾值時，程式會模擬鍵盤輸入（發送按鍵訊號），執行喝水動作。
 
-> **注意**：為了確保運作正常，請勿將 OBS 最小化（可以縮小到工作列，但不能完全關閉顯示），並確保遊戲視窗未被其他視窗完全遮擋。
+
 
 ---
 
