@@ -40,7 +40,7 @@
 本程式已內建 **OBS Portable (免安裝版)**，您 **無需** 額外安裝 OBS Studio 或進行繁瑣的 WebSocket 設定。
 
 ### 啟動程式
-1.  前往編譯後的目錄：`bin\Release\Aron.MaplestoryArtale`。
+1.  前往程式目錄：`Aron.MaplestoryArtale`。
 2.  執行 `Aron.MaplestoryArtale.exe`。
 3.  程式啟動時會 **自動啟動內建的 OBS**，並自動開啟網頁介面（預設為 `http://localhost:5000`，請依實際 Console 顯示為主）。
 
@@ -88,4 +88,5 @@
 *   **免責聲明**：本軟體僅供輔助使用，作者不對因使用本軟體而導致的任何遊戲帳號封鎖、資料遺失或損害負責。請自行承擔使用風險。
 
 Copyright © 2025 Aron. All Rights Reserved.
+
 
