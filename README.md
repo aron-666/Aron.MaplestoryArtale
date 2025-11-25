@@ -8,6 +8,8 @@
 
 **[🎥 觀看功能示範影片](https://youtu.be/YYn0WYdpDrA)**
 
+**[📥 下載最新版本](https://github.com/aron-666/Aron.MaplestoryArtale/releases/latest)**
+
 ## ✨ 功能介紹
 
 ### 1. 角色狀態監控 (Character Status)
