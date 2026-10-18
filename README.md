@@ -1,6 +1,5 @@
-![Total Visitors](https://komarev.com/ghpvc/?username=aron-666-MaplestoryArtale&color=green)
-
-# Aron.MaplestoryArtale - 楓之谷 Artale 遊戲輔助系統
+# Aron.MaplestoryArtale 
+## 楓之谷 Artale 遊戲輔助系統
 
 專為 MapleStory Artale 設計的遊戲輔助工具。以 Windows 原生擷取 API 取得遊戲畫面，透過 AI 影像辨識（視覺模型、OCR、小地圖定位）理解畫面，再以驅動層模擬按鍵完成自動化；**不讀取、不修改遊戲記憶體**。
 
@@ -8,7 +7,7 @@
 
 > ⚠️ **目前沒有解測謊／解輪機制，也不會提醒。** 掛機時請自己留意畫面，出現測謊或輪（輪盤）需要自行處理，詳見[注意事項](#-注意事項)。
 
-**[📥 下載最新版本（1.0.0-beta.9）](https://filedn.com/lClu5LN8zn8Jlro682DsiLh/MapleStoryAI/MapleArtale-1.0.0-beta.9-win-x64.zip)**　
+**[📥 下載最新版本](https://github.com/aron-666/Aron.MaplestoryArtale/releases/latest)**　
 
 ![主介面預覽](Screenshots/01.png)
 
