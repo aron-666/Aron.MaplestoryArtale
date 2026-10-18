@@ -8,7 +8,7 @@
 
 > ⚠️ **目前沒有解測謊／解輪機制，也不會提醒。** 掛機時請自己留意畫面，出現測謊或輪（輪盤）需要自行處理，詳見[注意事項](#-注意事項)。
 
-**[📥 下載最新版本](https://github.com/aron-666/Aron.MaplestoryArtale/releases/latest)**　
+**[📥 下載最新版本（1.0.0-beta.9）](https://filedn.com/lClu5LN8zn8Jlro682DsiLh/MapleStoryAI/MapleArtale-1.0.0-beta.9-win-x64.zip)**　
 
 ![主介面預覽](Screenshots/01.png)
 
@@ -169,7 +169,7 @@
 ## 🚀 安裝與使用
 
 ### 首次安裝
-1. 到 [最新版 Release](https://github.com/aron-666/Aron.MaplestoryArtale/releases/latest)，從說明中的下載網址下載 `MapleArtale-<版本>-win-x64.zip`（**不要**下載頁面下方的「Source code」，那不是程式）
+1. 下載 [MapleArtale-1.0.0-beta.9-win-x64.zip](https://filedn.com/lClu5LN8zn8Jlro682DsiLh/MapleStoryAI/MapleArtale-1.0.0-beta.9-win-x64.zip)（各版本說明見 [Releases](https://github.com/aron-666/Aron.MaplestoryArtale/releases)；**不要**下載 Release 頁面的「Source code」，那不是程式）
 2. 解壓整個資料夾到自己的位置（例如 `D:\MapleArtale`），**不要**放在 `Program Files`
 3. **以系統管理員身分**執行 `MapleArtale.exe`
 4. 首次使用依提示安裝 Interception 按鍵驅動，安裝後**重新開機**
